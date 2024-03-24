@@ -9,5 +9,5 @@ then to compile the application (here libr or library),
 gcc -g -c <file_name.c> -o <file_name.o>
 
 to run the application,
-gcc -g -o 'file_name' mld.o <file_name.o>
+gcc -g -o 'file_name' mld.o <file_name.o>,
 ./'file_name'
